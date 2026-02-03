@@ -1,0 +1,36 @@
+# Core data processing
+pandas
+numpy
+
+# PDF processing
+pymupdf==1.23.22
+pdfplumber
+
+# Web framework and API
+streamlit
+fastapi
+uvicorn
+
+# AI/ML
+google-generativeai
+
+# LangGraph and LangChain dependencies
+langgraph==0.2.50
+langchain==0.3.7
+langchain-core==0.3.15
+
+# Data validation and typing
+pydantic==2.9.2
+typing-extensions==4.12.2
+
+# Fuzzy string matching for validation
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.25.0
+
+# Utilities
+python-dotenv==1.0.1
+requests==2.32.3
+plotly
+
+# Testing
+pytest

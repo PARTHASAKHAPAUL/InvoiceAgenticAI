@@ -1,0 +1,26 @@
+invoice_number,order_id,customer_name,item_name,quantity,rate,expected_amount
+14021,ES-2025-BE11335139-41340,Bill Eplett,"Canon Wireless Fax, Laser Copiers, Technology, TEC-CO-3710",5,1893.30,9466.5
+6459,MX-2025-DK1298539-41339,Darren Koutras,"KitchenAid Stove, Silver Appliances, Office Supplies, OFF-AP-4966",4,1903.0,7612.0
+24450,IN-2025-GM146807-41338,Greg Matthias,"Hon Executive Leather Armchair, Adjustable Chairs, Furniture, FUR-CH-4654",1,409.24,409.24
+14130,ES-2025-LT1711045-41340,Liz Thompson,"Safco 3-Shelf Cabinet, Mobile Bookcases, Furniture, FUR-BO-5746",8,1079.57,8636.56
+24429,IN-2025-MZ173357-41340,Maria Zettner,"Hon Rocking Chair, Black Chairs, Furniture, FUR-CH-4682",4,461.48,1845.94
+10963,ES-2025-SW202458-41340,Scot Wooten,"Hewlett Fax Machine, Color Copiers, Technology, TEC-CO-4575",3,1285.44,3856.32
+22091,IN-2025-GB145307-41338,George Bell,"Safco Classic Bookcase, Metal Bookcases, Furniture, FUR-BO-5760",9,2756.94,24812.46
+36552,CA-2025-AH10195140-41338,Alan Haines,"36X48 HARDFLOOR CHAIRMAT Furnishings, Furniture, FUR-FU-2864",2,33.57,67.14
+36551,CA-2025-AH10195140-41338,Alan Haines,"Situations Contoured Folding Chairs, 4/Set Chairs, Furniture, FUR-CH-6016",2,99.37,198.74
+9063,MX-2025-PO1885051-41338,Patrick O'Brill,"Novimex Executive Leather Armchair, Adjustable Chairs, Furniture, FUR-CH-5378",2,607.36,1214.72
+28557,IN-2025-BT1153058-41331,Bradley Talbott,"Barricks Conference Table, Fully Assembled Tables, Furniture, FUR-TA-3344",3,5451.3,16353.9
+11001,ES-2025-RA19285120-41335,Ralph Arnett,"StarTech Inkjet, Wireless Machines, Technology, TEC-MA-6142",3,815.1,2445.31
+11000,ES-2025-RA19285120-41335,Ralph Arnett,"Canon Fax and Copier, Laser Copiers, Technology, TEC-CO-3685",11,2104.74,23152.14
+18509,ES-2025-JC15340139-41334,Jasper Cacioppo,"Cisco Audio Dock, Full Size Phones, Technology, TEC-PH-3785",4,733.44,2933.76
+49650,SG-2025-EH4005111-41331,Erica Hernandez,"Brother Fax Machine, High-Speed Copiers, Technology, TEC-CO-3597",2,633.48,1266.96
+22988,IN-2025-RE194507-41329,Richard Eichhorn,"Safco Library with Doors, Metal Bookcases, Furniture, FUR-BO-5785",2,700.65,1401.3
+22999,IN-2025-BP1123058-41329,Benjamin Patterson,"Office Star Executive Leather Armchair, Red Chairs, Furniture, FUR-CH-5443",4,1878.72,7514.88
+22711,IN-2025-DL1333058-41328,Denise Leinenbach,"Samsung Smart Phone, Full Size Phones, Technology, TEC-PH-5840",5,3187.2,15936.0
+11502,ES-2025-PB19210139-41327,Phillip Breyer,"Enermax Keyboard, Erganomic Accessories, Technology, TEC-AC-4156",6,487.62,2925.72
+49674,UP-2025-AH10030137-41325,Aaron Hawkins,"Hon Rocking Chair, Black Chairs, Furniture, FUR-CH-4682",8,1025.52,8204.16
+35513,CA-2025-AB10600140-41322,Ann Blume,"Smead Alpha-Z Color-Coded Second Alphabetical Labels and Starter Set Labels, Office Supplies, OFF-LA-6022",3,9.24,27.72
+20145,ES-2025-BD11560139-41327,Brendan Dodson,"Hon Executive Leather Armchair, Black Chairs, Furniture, FUR-CH-4655",5,2285.70,11428.50
+18517,ES-2025-FO1430545-41322,Frank Olsen,"Belkin Numeric Keypad, Bluetooth Accessories, Technology, TEC-AC-3396",10,579.60,5796.00
+28863,IN-2025-ME1801027-41322,Michelle Ellison,"Office Star Executive Leather Armchair, Adjustable Chairs, Furniture, FUR-CH-5441",1,930.00,930.00
+23981,IN-2025-NG1843058-41319,Nathan Gelder,"SAFCO Chairmat, Set of Two Chairs, Furniture, FUR-CH-5759",4,248.28,993.12
